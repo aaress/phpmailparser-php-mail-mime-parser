@@ -8,7 +8,7 @@ The following versions of PHP are supported by this version.
 
 ## How to use it ?
 
-
+```php
 <?php
 //We need to add the library first !
 
@@ -71,7 +71,7 @@ print_r($Parser->bodyarray);
 $html  = $uye->covert($Parser->bodyarray["html"]["content-type"],$Parser->bodyarray["html"]["content-transfer-encoding"])
 
 ?>
-
+```
 
 ## Contributing ?
 
