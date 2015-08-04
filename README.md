@@ -49,10 +49,9 @@ print_r($Parser->bodyarray);
 
 // Get Body Data multipart/mixed 
 
-if($uye->bodyarray["parser_ready"]){
+if($Parser->bodyarray["parser_ready"]){
 
-    $uye->parser_ready($uye->bodyarray["parser_ready"][$uye->bodyarray["parser_ready"]["content-type"]],$uye->bodyarray["parser_ready"]["boundary"])
-    ;
+    $Parser->parser_ready($Parser->bodyarray["parser_ready"][$Parser->bodyarray["parser_ready"]["content-type"]],$Parser->bodyarray["parser_ready"]["boundary"]);
 }
 $text = $Parser->bodyarray["txt"]["content-type"];
 
@@ -80,4 +79,4 @@ To add issue, please provide the raw email with it.
 
 ### License
 
-The phpmailmparser/php-mime-mail-parser is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+The phpmailmparser-php-mime-mail-parser is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
