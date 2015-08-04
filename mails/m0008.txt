@@ -1,0 +1,85 @@
+Return-Path: <firstname.name@groupe-company.com>
+Delivered-To: paul.dupont@company.com
+Received: from emea01-db3-obe.outbound.protection.outlook.com (mail-db3lp0079.outbound.protection.outlook.com [8.140.15.112])
+	by postfix.devel (Postfix) with ESMTP id 33ABB2B08B
+	for <paul.dupont@company.com>; Fri, 14 Mar 2014 10:52:34 +0100 (CET)
+Received: from DB3PR05MB172.eurprd05.prod.outlook.com (8.140.15.112) by
+ DB3PR05MB329.eurprd05.prod.outlook.com (8.140.15.112) with Microsoft SMTP
+ Server (TLS) id 15.0.898.11; Fri, 14 Mar 2014 09:52:32 +0000
+Received: from DB3PR05MB172.eurprd05.prod.outlook.com ([168.154.111.153]) by
+ DB3PR05MB172.eurprd05.prod.outlook.com ([129.354.10.212]) with mapi id
+ 15.00.0893.001; Fri, 14 Mar 2014 09:52:32 +0000
+From: NAME Firstname <firstname.name@groupe-company.com>
+To: "paul.dupont@company.com" <paul.dupont@company.com>
+Subject: =?iso-8859-1?Q?50032266_CAR_11=5FMNPA00A01=5F9PTX=5FH00_ATT_N=B0_1467829.?=
+ =?iso-8859-1?Q?_pdf?=
+Thread-Topic: =?iso-8859-1?Q?50032266_CAR_11=5FMNPA00A01=5F9PTX=5FH00_ATT_N=B0_1467829.?=
+ =?iso-8859-1?Q?_pdf?=
+Thread-Index: AQHPP2sdK5RDOFU9lUeX2JMAMzi1Nw==
+Date: Fri, 14 Mar 2014 09:52:31 +0000
+Message-ID: <47242e000a564c039fdfc621566678e9@DB3PR05MB172.eurprd05.prod.outlook.com>
+Accept-Language: fr-FR, en-US
+Content-Language: fr-FR
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [80.82.142.66]
+x-forefront-prvs: 0150F3F97D
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009001)(979002)(6009001)(428001)(189002)(199002)(55784002)(92566001)(85852003)(94946001)(81542001)(77982001)(95416001)(15975445006)(59766001)(85306002)(54316002)(15188155005)(76176001)(81342001)(19580395003)(19580405001)(33646001)(83072002)(81686001)(90146001)(81816001)(4396001)(56816005)(76576001)(80976001)(50986001)(74316001)(65816001)(2656002)(97186001)(95666003)(51856001)(53806001)(47976001)(46102001)(63696002)(20776003)(87266001)(54356001)(86362001)(97336001)(47446002)(31966008)(47736001)(74366001)(94316002)(93136001)(76786001)(76796001)(77096001)(74662001)(15974865002)(69226001)(83322001)(56776001)(93516002)(74876001)(49866001)(15202345003)(16799955002)(66066001)(87936001)(79102001)(74706001)(224303002)(24736002)(969003)(989001)(999001)(1009001)(1019001);DIR:OUT;SFP:1101;SCL:1;SRVR:DB3PR05MB329;H:DB3PR05MB172.eurprd05.prod.outlook.com;FPR:B3C3D72F.BCC79F5A.3B533BD7.ABE212CB.201E6;MLV:ovrnspm;PTR:InfoNoRecords;MX:1;A:0;LANG:fr;
+received-spf: None (: groupe-company.com does not designate permitted sender
+ hosts)
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0927_01CC9AF3.F3C13E00"
+MIME-Version: 1.0
+X-OriginatorOrg: groupe-company.com
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0927_01CC9AF3.F3C13E00
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0928_01CC9AF3.F3C13E00"
+
+
+------=_NextPart_001_0928_01CC9AF3.F3C13E00
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+asdasdasdasd
+
+------=_NextPart_001_0928_01CC9AF3.F3C13E00
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+asdasdasdsasdasd
+
+------=_NextPart_001_0928_01CC9AF3.F3C13E00--
+
+------=_NextPart_000_0927_01CC9AF3.F3C13E00
+Content-Type: text/plain;
+	name="txt.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="license.txt"
+
+asdasdasdasdasd
+
+------=_NextPart_000_0927_01CC9AF3.F3C13E00
+Content-Type: application/pdf;
+	name="asdasdsa.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="asdasdasd.pdf"
+
+asdasdasdasdasdasdasdasd
+
+------=_NextPart_000_0927_01CC9AF3.F3C13E00
+Content-Type: text/plain;
+	name="txt.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="txt.txt"
+
+asdasdasdsad
+
+------=_NextPart_000_0927_01CC9AF3.F3C13E00--
