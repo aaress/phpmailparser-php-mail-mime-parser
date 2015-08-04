@@ -17,6 +17,7 @@ $path = 'path/to/mail.txt';
 $Parser = new parser();
 
 //There are three input methods of the mime mail to be parsed
+
 //specify a file path to the mime mail :
 $Parser->stream($path); 
 
